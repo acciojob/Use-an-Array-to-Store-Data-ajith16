@@ -1,2 +1,2 @@
 
-let yourArray = ["ajith",24,true,false,undefined]
+let yourArray = ["ajith",24,true,false,undefined];
